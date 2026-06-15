@@ -13,7 +13,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('https://i.ibb.co/pk5syY1/Rudivan-jpg.png')",
+          backgroundImage: "url('/rudivan.webp')",
           backgroundPosition: 'center center',
           filter: 'brightness(1.08) contrast(1.15) saturate(1.1)',
         }}
